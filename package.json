@@ -2,7 +2,7 @@
 	"homepage": "https://hun1001.github.io",
 	"name": "hun1001.github.io",
 	"version": "0.0.1",
-	"private": true,
+	"private": false,
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
