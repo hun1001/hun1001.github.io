@@ -21,7 +21,7 @@
 					href={route.href}>{route.label}</a
 				>
 			{/each}
-			<a class="button" href="https://github.com/hun1001" target="_blank">
+			<a class="button" href="https://hun1001.github.io/Blog" target="_blank">
 				Blog
 			</a>
 		</div>
