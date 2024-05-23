@@ -24,6 +24,12 @@ const projects = [
 		technologies: ['Unity', 'C#'],
 		description: 'Story game develop in Game Jam for 3 days',
 		url: 'https://github.com/rtq9731/Linear'
+	},
+	{
+		title: 'AWS Ranking Server',
+		technologies: ['express.js', 'AWS', 'redis'],
+		description: 'Ranking server for game using AWS',
+		url: 'https://github.com/hun1001/AWSRankingServer'
 	}
 ];
 
